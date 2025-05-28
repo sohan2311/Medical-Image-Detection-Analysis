@@ -32,18 +32,18 @@ Once the app is running locally, access it via:
 git clone https://github.com/your-username/vitalimage-analytics.git
 cd vitalimage-analytics
 
-###2️⃣ Install Dependencies
+2️⃣ Install Dependencies
 
 Install the required Python packages using pip:
 pip install streamlit google-generativeai
 
-###3️⃣ Add Your Gemini API Key
+3️⃣ Add Your Gemini API Key
 
 Create a file named api_key.py in the root directory and add:
 api_key = "YOUR_GEMINI_API_KEY"
 Get your key from https://makersuite.google.com/app
 
-###4️⃣ Run the App
+4️⃣ Run the App
 streamlit run app.py
 Access the application at http://localhost:8501
 📁 Project Structure
@@ -54,7 +54,7 @@ VitalImageAnalytics/
 ├── Vital Image Analysis.png    # App logo image
 └── README.md                   # Project README
 
-###🤖 Model & Prompt Details
+🤖 Model & Prompt Details
 
 Model: gemini-1.5-pro-latest
 Framework: Google Generative AI (google-generativeai)
@@ -64,7 +64,7 @@ Safety Filters: Enabled for harassment, hate, explicit, and dangerous content
 System Prompt:
 A structured instruction defining model behavior as a responsible medical image analyst trained in scikit-learn-based logic with AI-powered interpretation skills.
 
-###⚠️ API Limitations & Alternatives
+⚠️ API Limitations & Alternatives
 
 Gemini’s free API quota may limit:
 Number of tokens/day
@@ -73,7 +73,7 @@ If you exceed quota, you’ll see an error like:
 google.api_core.exceptions.ResourceExhausted: 429 You exceeded your current quota...
 
 
-###✅ Free Alternative: Hugging Face Transformers
+✅ Free Alternative: Hugging Face Transformers
 Install:
 pip install transformers torch torchvision
 Replace image analysis logic with:
