@@ -110,6 +110,8 @@ Licensed under the MIT License. See LICENSE for more details.
 📬 Contact
 
 For feedback, bugs, or enhancements, feel free to reach out:
+
 Sohan Maity
+
 📧 Email: [sohan.maity2311@gmail.com.com]
 🔗 GitHub: [https://github.com/sohan2311]
