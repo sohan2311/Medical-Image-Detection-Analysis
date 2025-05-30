@@ -274,6 +274,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ for the healthcare community**
 
-[⭐ Star this repo](https://github.com/yourusername/vitalimage-analytics) | [🐛 Report Bug](https://github.com/yourusername/vitalimage-analytics/issues) | [💡 Request Feature](https://github.com/yourusername/vitalimage-analytics/issues)
+[⭐ Star this repo](https://github.com/yourusername/vitalimage-analytics) | [💡 Request Feature](https://github.com/yourusername/vitalimage-analytics/issues)
 
 </div>
