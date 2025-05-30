@@ -668,12 +668,13 @@ with st.sidebar:
 
 st.markdown("""
 <div class="footer">
-    <h4 style="color: #e0e6ed; margin-bottom: 1rem;">VitalImage Analytics</h4>
+    <h4 style="color: #e0e6ed; margin-bottom: 1rem;">Vital Image Analytics</h4>
     <p style="color: #b8c5d1; margin-bottom: 0.5rem;">
         Empowering healthcare professionals with AI-powered medical image analysis
     </p>
     <p style="color: #9aa5b1; font-size: 0.9rem; margin-bottom: 0;">
-        Built with ❤️ using Streamlit & Together AI • Version 1.0 • Now with Typing Effect!
+        Built with ❤️ using Streamlit & Together AI • Version 1.0 • <a href="https://www.linkedin.com/in/sohan-maity-26881a288/" target="_blank">Sohan Maity</a> •
+        <a href="https://github.com/sohan2311/Medical-Image-Detection-Analysis/tree/main" target="_blank">View Source Code in GitHub</a>
     </p>
 </div>
 """, unsafe_allow_html=True)
