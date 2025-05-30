@@ -31,8 +31,7 @@ VitalImage Analytics is a cutting-edge Streamlit application that leverages Toge
 ### Analysis Results
 ![Analysis Results](https://via.placeholder.com/600x400/ecfdf5/065f46?text=Analysis+Results+Screenshot)
 
-### Upload Interface
-![Upload Interface](https://via.placeholder.com/600x400/fef3c7/92400e?text=Upload+Interface+Screenshot)
+___
 
 ## 🚀 Quick Start
 
