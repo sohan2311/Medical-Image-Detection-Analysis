@@ -26,7 +26,7 @@ VitalImage Analytics is a cutting-edge Streamlit application that leverages Toge
 ## 🖼️ Screenshots
 
 ### Main Interface
-![Main Interface](https://github.com/sohan2311/Medical-Image-Detection-Analysis/blob/372af8542eec5343348f7552227e347022d88d28/App%20Interface%20new.png)
+![Main Interface](https://github.com/sohan2311/Medical-Image-Detection-Analysis/blob/70c98de5b78be4461c0b5994e14392c25838d910/WebApp%20UI%20Images/New%20App%20Interface.png)
 
 ### Analysis Results
 ![Analysis Results](https://via.placeholder.com/600x400/ecfdf5/065f46?text=Analysis+Results+Screenshot)
