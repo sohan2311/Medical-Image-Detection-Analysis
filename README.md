@@ -7,7 +7,8 @@
 
 > **An advanced AI-powered medical image analysis application that assists healthcare professionals in analyzing medical imagery using state-of-the-art computer vision models.**
 
-![VitalImage Analytics Banner](https://github.com/sohan2311/Medical-Image-Detection-Analysis/blob/6238bb730cae99c12a0baaabf7268c9d1a5feb05/Vital%20Image%20Analysis.png)
+<img src="https://github.com/sohan2311/Medical-Image-Detection-Analysis/blob/6238bb730cae99c12a0baaabf7268c9d1a5feb05/Vital%20Image%20Analysis.png?raw=true" alt="VitalImage Analytics Logo" width="200"/>
+
 
 ## 🎯 Overview
 
